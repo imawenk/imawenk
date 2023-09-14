@@ -1,16 +1,13 @@
-### Hi there 👋
+# ✈ Summary
+Hola, soy estudiante de Ingenieria en Sistemas Inteligentes, estoy interesado en el desarrollo de aplicaciones web y moviles, principalmente Front-End, asi como diseño UI/UX
 
-<!--
-**RicardoRomGar/RicardoRomGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📜 Skills
 
-Here are some ideas to get you started:
+*  Programming languages:
+![Languages](https://skillicons.dev/icons?i=html,css,js,php,c,cs,dart)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Tools: 
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql,sqlite,androidstudio)
+
+* Frameworks: 
+![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,laravel,flutter,bootstrap,jquery)
