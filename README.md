@@ -4,10 +4,13 @@ Hola, soy estudiante de Ingenieria en Sistemas Inteligentes, estoy interesado en
 # 📜 Skills
 
 *  Programming languages:
+
 ![Languages](https://skillicons.dev/icons?i=html,css,js,php,c,cs,dart)
 
-* Tools: 
+* Tools:
+
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql,sqlite,androidstudio)
 
-* Frameworks: 
+* Frameworks:
+
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,laravel,flutter,bootstrap,jquery)
