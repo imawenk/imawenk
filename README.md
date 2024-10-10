@@ -5,7 +5,13 @@ Hola, soy estudiante de Ingenieria en Sistemas Inteligentes, estoy interesado en
 
 *  Programming languages:
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,php,c,cs,dart)
+<p align = "center">
+    ![Languages]
+    <a href = "https://skillicons.dev">
+        <img src = "https://skillicons.dev/icons?i=html,css,js,php,c,cs,dart&theme=light&perline=4">
+    </a>
+</p>
+
 
 * Tools:
 
