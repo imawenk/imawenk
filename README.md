@@ -18,7 +18,7 @@
     </span>
     <span></span>
 </div>
-<div>
+<div style="margin-top: 15;">
     <p>Soy estudiante de Ingeniería en Sistemas Inteligentes, actualmente cursando el último semestre de mi carrera. Cuento con un año de experiencia como desarrollador de software y me apasiona contribuir y compartir mis conocimientos en cada proyecto en el que participo. Mi principal enfoque es el diseño y desarrollo de interfaces de usuario, centrado en ofrecer experiencias que sean agradables, intuitivas y accesibles para los usuarios. Además, tengo habilidades en diseño gráfico, lo que me permite combinar estética y funcionalidad en cada uno de mis proyectos.</p>
 </div>
 
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="30" height="30"/>
     &nbsp;&nbsp;&nbsp;
     <span>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=24=true&vCenter=true&width=500&height=80&duration=10000&color=F0F0F0&lines=Habilidades;"/>  
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=24=true&vCenter=true&width=500&height=40&duration=10000&color=F0F0F0&lines=Habilidades;"/>  
     </span>
     <span></span>
 </div>
