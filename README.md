@@ -7,11 +7,11 @@
 
 <hr>
 
-<!--Seccion: Acerca de mi-->
+<!--Seccion: Acerca de mí-->
 <div style="display: flex; align-items:center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Dark%20Skin%20Tone.png" alt="Love-You Gesture Medium-Dark Skin Tone" width="30" height="30" style="margin-right: 10px"/>
 
-<h3>Acerca de mi</h3>
+<h3>Acerca de mí</h3>
 </div>
 Soy estudiante de Ingeniería en Sistemas Inteligentes, actualmente cursando el último semestre de mi carrera. Cuento con un año de experiencia como desarrollador de software y me apasiona contribuir y compartir mis conocimientos en cada proyecto en el que participo. Mi principal enfoque es el diseño y desarrollo de interfaces de usuario, centrado en ofrecer experiencias que sean agradables, intuitivas y accesibles para los usuarios. Además, tengo habilidades en diseño gráfico, lo que me permite combinar estética y funcionalidad en cada uno de mis proyectos.
 
