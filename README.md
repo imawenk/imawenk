@@ -1,7 +1,7 @@
 <!--Encabezado-->
 <div style = "display: flex; align-items:center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="70" height="70"/>
-    <div style="width: 20px"></div>
+    &nbsp;&nbsp;&nbsp;
     <span>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=55=true&vCenter=true&width=500&height=80&duration=4000&color=B3B3B3&lines=Hola,+¿Qué+tal?+✌️;+Soy+Ricardo!+😁;"/>  
     </span>    
