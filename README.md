@@ -1,20 +1,22 @@
+![alt text](https://i.imgur.com/XcDrOqF.png)
+
 <!--Encabezado-->
 <div style = "display: flex; align-items:center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="70" height="70"/>
     &nbsp;&nbsp;&nbsp;
     <span>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=50=true&vCenter=true&width=500&height=70&duration=4500&color=F0F0F0&lines=Hola,+¿Qué+tal?+✌️;+Soy+Ricardo!+😁;"/>  
-    </span>    
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=50=true&vCenter=true&width=500&height=90&duration=4000&color=F0F0F0&lines=Hola,+¿Qué+tal?+✌🏽;+Soy+Ricardo!+😁;"/>
+    </span> 
 </div>
 
 <hr>
 
 <!--Seccion: Acerca de mí-->
 <div style="display: flex; align-items:center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Dark%20Skin%20Tone.png" alt="Love-You Gesture Medium-Dark Skin Tone" width="30" height="30"/>  
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Dark%20Skin%20Tone.png" alt="Love-You Gesture Medium-Dark Skin Tone" width="30" height="30"/> 
     &nbsp;&nbsp;&nbsp;
     <span>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=26=true&vCenter=true&width=500&height=40&duration=10000&color=F0F0F0&lines=Acerca+de+mí;"/>  
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=26=true&vCenter=true&width=200&height=40&duration=6000&color=F0F0F0&lines=Acerca+de+mí;"/>
     </span>
     <span></span>
 </div>
@@ -26,16 +28,15 @@
 
 <hr>
 
-<!--Seccion: Skills-->
+<!--Seccion: Habilidades-->
 <div style="display: flex; align-items:center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="30" height="30"/>
     &nbsp;&nbsp;&nbsp;
     <span>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=26=true&vCenter=true&width=500&height=40&duration=10000&color=F0F0F0&lines=Habilidades;"/>  
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=26=true&vCenter=true&width=200&height=40&duration=6000&color=F0F0F0&lines=Habilidades;"/>  
     </span>
     <span></span>
 </div>
-
 <div>
     <h4>Lenguajes de programación</h4>
     <a href="https://skillicons.dev">
@@ -58,5 +59,23 @@
         <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,pr&theme=dark">
     </a>
 </div>
+
+<hr>
+
+<div style="display: flex; align-items:center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"/>
+    &nbsp;&nbsp;&nbsp;
+    <span>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=26=true&vCenter=true&width=200&height=40&duration=6000&color=F0F0F0&lines=Estadísticas;"/>  
+    </span>
+    <span></span>
+</div>
+
+<div style="margin-top: 25px"></div>
+<!--Stats-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imawenk&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+
 
 
